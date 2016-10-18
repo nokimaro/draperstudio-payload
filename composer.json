@@ -1,5 +1,5 @@
 {
-    "name": "draperstudio/payload",
+    "name": "nokimaro/draperstudio-payload",
     "type": "library",
     "description": "Serialisers/Deserialisers for several data-types",
     "keywords": [
